@@ -1,0 +1,17 @@
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\bin\Debug\net6.0-windows\SayısalLotoApplication.exe
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\bin\Debug\net6.0-windows\SayısalLotoApplication.deps.json
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\bin\Debug\net6.0-windows\SayısalLotoApplication.runtimeconfig.json
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\bin\Debug\net6.0-windows\SayısalLotoApplication.dll
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\bin\Debug\net6.0-windows\SayısalLotoApplication.pdb
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\SayısalLotoApplication.Form1.resources
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\SayısalLotoApplication.Form2.resources
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\SayısalLotoApplication.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\SayısalLotoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\SayısalLotoApplication.AssemblyInfoInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\SayısalLotoApplication.AssemblyInfo.cs
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\SayısalLotoApplication.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\SayısalLotoApplication.dll
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\refint\SayısalLotoApplication.dll
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\SayısalLotoApplication.pdb
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\SayısalLotoApplication.genruntimeconfig.cache
+C:\Users\samet\OneDrive\Masaüstü\Udemy\SayısalLotoApplication\SayısalLotoApplication\obj\Debug\net6.0-windows\ref\SayısalLotoApplication.dll
