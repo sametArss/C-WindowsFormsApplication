@@ -1,0 +1,11 @@
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\bin\Debug\Fak_ÜsAl_MükSa_AsalMİ.exe.config
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\bin\Debug\Fak_ÜsAl_MükSa_AsalMİ.exe
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\bin\Debug\Fak_ÜsAl_MükSa_AsalMİ.pdb
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\obj\Debug\Fak_ÜsAl_MükSa_AsalMİ.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\obj\Debug\Fak_ÜsAl_MükSa_AsalMİ.Form1.resources
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\obj\Debug\Fak_ÜsAl_MükSa_AsalMİ.Properties.Resources.resources
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\obj\Debug\Fak_ÜsAl_MükSa_AsalMİ.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\obj\Debug\Fak_ÜsAl_MükSa_AsalMİ.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\obj\Debug\Fak_ÜsAl_MükSa_AsalMİ.exe
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\obj\Debug\Fak_ÜsAl_MükSa_AsalMİ.pdb
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Fak_ÜsAl_MükSa_AsalMİ\Fak_ÜsAl_MükSa_AsalMİ\obj\Debug\Fak_ÜsAl_MükSa_AsalMİ.Form2.resources
