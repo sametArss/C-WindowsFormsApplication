@@ -1,0 +1,10 @@
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Coffe_Menu\Coffe_Menu\bin\Debug\Coffe_Menu.exe.config
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Coffe_Menu\Coffe_Menu\bin\Debug\Coffe_Menu.exe
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Coffe_Menu\Coffe_Menu\bin\Debug\Coffe_Menu.pdb
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Coffe_Menu\Coffe_Menu\obj\Debug\Coffe_Menu.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Coffe_Menu\Coffe_Menu\obj\Debug\Coffe_Menu.Form1.resources
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Coffe_Menu\Coffe_Menu\obj\Debug\Coffe_Menu.Properties.Resources.resources
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Coffe_Menu\Coffe_Menu\obj\Debug\Coffe_Menu.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Coffe_Menu\Coffe_Menu\obj\Debug\Coffe_Menu.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Coffe_Menu\Coffe_Menu\obj\Debug\Coffe_Menu.exe
+C:\Users\samet\OneDrive\Masaüstü\Udemy\Coffe_Menu\Coffe_Menu\obj\Debug\Coffe_Menu.pdb
