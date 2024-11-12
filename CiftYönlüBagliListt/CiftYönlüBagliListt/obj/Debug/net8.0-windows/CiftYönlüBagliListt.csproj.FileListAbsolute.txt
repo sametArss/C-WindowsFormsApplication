@@ -1,0 +1,16 @@
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\bin\Debug\net8.0-windows\CiftYönlüBagliListt.exe
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\bin\Debug\net8.0-windows\CiftYönlüBagliListt.deps.json
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\bin\Debug\net8.0-windows\CiftYönlüBagliListt.runtimeconfig.json
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\bin\Debug\net8.0-windows\CiftYönlüBagliListt.dll
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\bin\Debug\net8.0-windows\CiftYönlüBagliListt.pdb
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\CiftYönlüBagliListt.Form1.resources
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\CiftYönlüBagliListt.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\CiftYönlüBagliListt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\CiftYönlüBagliListt.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\CiftYönlüBagliListt.AssemblyInfo.cs
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\CiftYönlüBagliListt.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\CiftYönlüBagliListt.dll
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\refint\CiftYönlüBagliListt.dll
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\CiftYönlüBagliListt.pdb
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\CiftYönlüBagliListt.genruntimeconfig.cache
+C:\Users\Samet\source\repos\CiftYönlüBagliListt\CiftYönlüBagliListt\obj\Debug\net8.0-windows\ref\CiftYönlüBagliListt.dll
