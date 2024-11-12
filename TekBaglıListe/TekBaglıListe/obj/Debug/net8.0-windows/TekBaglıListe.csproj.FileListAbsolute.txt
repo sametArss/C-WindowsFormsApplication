@@ -1,0 +1,16 @@
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\bin\Debug\net8.0-windows\TekBaglıListe.exe
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\bin\Debug\net8.0-windows\TekBaglıListe.deps.json
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\bin\Debug\net8.0-windows\TekBaglıListe.runtimeconfig.json
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\bin\Debug\net8.0-windows\TekBaglıListe.dll
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\bin\Debug\net8.0-windows\TekBaglıListe.pdb
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\TekBaglıListe.Form1.resources
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\TekBaglıListe.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\TekBaglıListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\TekBaglıListe.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\TekBaglıListe.AssemblyInfo.cs
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\TekBaglıListe.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\TekBaglıListe.dll
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\refint\TekBaglıListe.dll
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\TekBaglıListe.pdb
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\TekBaglıListe.genruntimeconfig.cache
+C:\Users\Samet\source\repos\TekBaglıListe\TekBaglıListe\obj\Debug\net8.0-windows\ref\TekBaglıListe.dll
