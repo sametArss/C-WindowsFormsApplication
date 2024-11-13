@@ -1,0 +1,16 @@
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\bin\Debug\net8.0-windows\YiginÖdev.exe
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\bin\Debug\net8.0-windows\YiginÖdev.deps.json
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\bin\Debug\net8.0-windows\YiginÖdev.runtimeconfig.json
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\bin\Debug\net8.0-windows\YiginÖdev.dll
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\bin\Debug\net8.0-windows\YiginÖdev.pdb
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\YiginÖdev.Form1.resources
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\YiginÖdev.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\YiginÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\YiginÖdev.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\YiginÖdev.AssemblyInfo.cs
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\YiginÖdev.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\YiginÖdev.dll
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\refint\YiginÖdev.dll
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\YiginÖdev.pdb
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\YiginÖdev.genruntimeconfig.cache
+C:\Users\Samet\source\repos\YiginÖdev\YiginÖdev\obj\Debug\net8.0-windows\ref\YiginÖdev.dll
