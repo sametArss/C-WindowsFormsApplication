@@ -1,0 +1,16 @@
+C:\Users\Samet\source\repos\UrunListe\UrunListe\bin\Debug\net8.0-windows\UrunListe.exe
+C:\Users\Samet\source\repos\UrunListe\UrunListe\bin\Debug\net8.0-windows\UrunListe.deps.json
+C:\Users\Samet\source\repos\UrunListe\UrunListe\bin\Debug\net8.0-windows\UrunListe.runtimeconfig.json
+C:\Users\Samet\source\repos\UrunListe\UrunListe\bin\Debug\net8.0-windows\UrunListe.dll
+C:\Users\Samet\source\repos\UrunListe\UrunListe\bin\Debug\net8.0-windows\UrunListe.pdb
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\UrunListe.Form1.resources
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\UrunListe.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\UrunListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\UrunListe.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\UrunListe.AssemblyInfo.cs
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\UrunListe.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\UrunListe.dll
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\refint\UrunListe.dll
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\UrunListe.pdb
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\UrunListe.genruntimeconfig.cache
+C:\Users\Samet\source\repos\UrunListe\UrunListe\obj\Debug\net8.0-windows\ref\UrunListe.dll

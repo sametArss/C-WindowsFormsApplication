@@ -1,0 +1,1 @@
+id:1-name:Elma-fiyat:15 # id:2-name:Çilek-fiyat:25 # id:3-name:Nar-fiyat:50
