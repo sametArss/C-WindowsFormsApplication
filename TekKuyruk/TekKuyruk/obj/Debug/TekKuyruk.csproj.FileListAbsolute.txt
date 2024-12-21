@@ -1,0 +1,10 @@
+C:\Users\Samet\source\repos\TekKuyruk\TekKuyruk\bin\Debug\TekKuyruk.exe.config
+C:\Users\Samet\source\repos\TekKuyruk\TekKuyruk\bin\Debug\TekKuyruk.exe
+C:\Users\Samet\source\repos\TekKuyruk\TekKuyruk\bin\Debug\TekKuyruk.pdb
+C:\Users\Samet\source\repos\TekKuyruk\TekKuyruk\obj\Debug\TekKuyruk.csproj.AssemblyReference.cache
+C:\Users\Samet\source\repos\TekKuyruk\TekKuyruk\obj\Debug\TekKuyruk.Form1.resources
+C:\Users\Samet\source\repos\TekKuyruk\TekKuyruk\obj\Debug\TekKuyruk.Properties.Resources.resources
+C:\Users\Samet\source\repos\TekKuyruk\TekKuyruk\obj\Debug\TekKuyruk.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\TekKuyruk\TekKuyruk\obj\Debug\TekKuyruk.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\TekKuyruk\TekKuyruk\obj\Debug\TekKuyruk.exe
+C:\Users\Samet\source\repos\TekKuyruk\TekKuyruk\obj\Debug\TekKuyruk.pdb
